@@ -10,3 +10,5 @@ Goal of strip log is to have an abbriviated CSV file with top, bottom and format
 The CSV file can be use for further machine learning training studies.
 
 No warranty provided or implied! 
+
+# Have fun! Please report an issue if you run into anything!
