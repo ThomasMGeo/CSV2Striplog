@@ -11,4 +11,4 @@ The CSV file can be use for further machine learning training studies.
 
 No warranty provided or implied! 
 
-# Have fun! Please report an issue if you run into anything!
+# Have fun! 
